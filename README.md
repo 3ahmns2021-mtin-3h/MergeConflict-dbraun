@@ -1,1 +1,2 @@
-fixed konflikt
+merge konflikt 2
+
