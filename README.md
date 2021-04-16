@@ -1,1 +1,1 @@
-fixed konflikt
+merge konflikt main
