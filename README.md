@@ -1,2 +1,1 @@
-# MergeConflict-dbraun
-merge konflikt offline
+fixed konflikt
