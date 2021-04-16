@@ -1,1 +1,4 @@
+<<<<<<< HEAD
 merge konflikt main
+=======
+
