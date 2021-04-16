@@ -1,4 +1,1 @@
-<<<<<<< HEAD
-merge konflikt main
-=======
-
+git clone 1
